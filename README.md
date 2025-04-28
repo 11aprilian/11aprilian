@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img align="left" height="150" src="https://i.imgflip.com/9s4upz.gif" style="margin-right: 20px;" />
+  <img align="left" height="150" src="https://i.imgflip.com/9s4upz.gif" />
   
   <div>
     <h3 align="left">Hi 👋! My name is Ihza and I'm a web developer</h3>

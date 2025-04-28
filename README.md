@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11aprilian&label=Profile%20views&color=0e75b6&style=flat" alt="11aprilian" /> </p>
 
-- 🔭 I’m currently working on [Origami Labs](https://origamilabs.id/)
-
-- 👨‍💻 All of my experiences and my projects are available at [https://www.eiternity.my.id/](https://www.eiternity.my.id/)
+- 👨‍💻 All of my experiences and my projects are available at [https://eiternity.my.id/](https://www.eiternity.my.id/)
 
 
 <h3 align="left">Connect with me:</h3>

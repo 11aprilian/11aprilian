@@ -1,4 +1,4 @@
-<h3 align="center">I'm a passionate software engineer focused on growing my web development skills. I believe in growing faster as the world evolves, and I'm always ready to take on new challenges to keep improving.</h3>
+<h3 align="center">I'm a passionate software engineer focused on growing my web development skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11aprilian&label=Profile%20views&color=0e75b6&style=flat" alt="11aprilian" /> </p>
 

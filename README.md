@@ -1,5 +1,7 @@
 ![GIF](https://i.imgflip.com/9s4upz.gif)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21abwdrefotccfjpvfbpnt7gq&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=9c3035&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 **Hi 👋! My name is Ihza and I'm a web developer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=11aprilian&label=Profile%20views&color=0e75b6&style=flat)
@@ -48,5 +50,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=11aprilian&show_icons=true&locale=en&layout=compact" alt="11aprilian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11aprilian&" alt="11aprilian" /></p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21abwdrefotccfjpvfbpnt7gq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)

@@ -1,20 +1,15 @@
 <div style="display: flex; align-items: center;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
-    <div style="width:180px;max-width:100%;">
-      <div style="height:0;padding-bottom:99.23%;position:relative;">
-        <iframe width="260" height="258" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9s4upz"></iframe>
-      </div>
-    </div>
-  </div>
+  <img align="left" height="150" src="https://i.imgflip.com/9s4upz.gif" style="margin-right: 20px;" />
   
   <div>
     <h3 align="left">Hi 👋! My name is Ihza and I'm a web developer</h3>
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=11aprilian&label=Profile%20views&color=0e75b6&style=flat" alt="11aprilian" />
     </p>
-      <p>👨‍💻 All of my experiences and my projects are available at <a href="https://www.eiternity.my.id/" target="_blank">EiTernity</a></p>
+    <p>👨‍💻 All of my experiences and my projects are available at <a href="https://www.eiternity.my.id/" target="_blank">EiTernity</a></p>
   </div>
 </div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

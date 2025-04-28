@@ -1,4 +1,4 @@
-<h3 align="center">I'm a passionate software engineer focused on growing my web development skills.</h3>
+<h3 align="left">Hi 👋! My name is Ihza and I'm a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11aprilian&label=Profile%20views&color=0e75b6&style=flat" alt="11aprilian" /> </p>
 

@@ -1,14 +1,11 @@
-<div style="display: flex; align-items: center;">
-  <img align="left" height="150" src="https://i.imgflip.com/9s4upz.gif" />
-  
-  <div>
-    <h3 align="left">Hi 👋! My name is Ihza and I'm a web developer</h3>
-    <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=11aprilian&label=Profile%20views&color=0e75b6&style=flat" alt="11aprilian" />
-    </p>
-    <p>👨‍💻 All of my experiences and my projects are available at <a href="https://www.eiternity.my.id/" target="_blank">EiTernity</a></p>
-  </div>
-</div>
+![GIF](https://i.imgflip.com/9s4upz.gif)
+
+**Hi 👋! My name is Ihza and I'm a web developer**
+
+![Profile Views](https://komarev.com/ghpvc/?username=11aprilian&label=Profile%20views&color=0e75b6&style=flat)
+
+👨‍💻 All of my experiences and my projects are available at [EiTernity](https://www.eiternity.my.id/)
+
 
 
 

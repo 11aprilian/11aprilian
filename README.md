@@ -4,13 +4,8 @@
 
 - 🔭 I’m currently working on [Origami Labs](https://origamilabs.id/)
 
-- 👨‍💻 All of my projects are available at [https://www.eiternity.my.id/](https://www.eiternity.my.id/)
+- 👨‍💻 All of my experiences and my projects are available at [https://www.eiternity.my.id/](https://www.eiternity.my.id/)
 
-- 📫 How to reach me **ihzaaprilian@gmail.com**
-
-- 📄 Know about my experiences [https://www.eiternity.my.id/](https://www.eiternity.my.id/)
-
-- ⚡ Fun fact **I like cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
